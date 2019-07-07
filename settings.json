@@ -1,0 +1,34 @@
+{
+    "window.menuBarVisibility": "toggle",
+    "window.zoomLevel": 0,
+    "workbench.iconTheme": "vscode-icons",
+    "editor.renderLineHighlight": "gutter",
+    "editor.occurrencesHighlight": false,
+    "workbench.colorTheme": "Gruvbox Dark (Hard)",
+    "java.errors.incompleteClasspath.severity": "ignore",
+    "editor.fontSize": 12,
+    "editor.minimap.enabled": false,
+    "editor.fontFamily": "'Deja Vu Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+    "editor.fontWeight": "bold",
+    "editor.fontLigatures": false,
+    "python.pythonPath": "/usr/bin/python",
+    "C_Cpp.intelliSenseEngine": "Default",
+    "editor.renderWhitespace": "boundary",
+    "editor.roundedSelection": false,
+    "workbench.activityBar.visible": false,
+    "workbench.statusBar.feedback.visible": false,
+    "workbench.statusBar.visible": true,
+    "window.titleBarStyle": "custom",
+    "workbench.panel.defaultLocation": "bottom",
+    "workbench.settings.editor": "json",
+    "workbench.colorCustomizations": {
+        "editorBracketMatch.border": "#ee00b2",
+        "editorCursor.foreground": "#dddddd"
+    },
+    "editor.cursorStyle": "block",
+    "editor.cursorBlinking": "blink",
+    "editor.dragAndDrop": false,
+    "telemetry.enableTelemetry": false,
+    "telemetry.enableCrashReporter": false
+
+}
