@@ -1,0 +1,11 @@
+C/C++
+Debugger for Java
+Gruvbox Themes
+Hopscotch
+Java (Dependency Viewer | Extension Pack | Test Runner)
+Language support for Java
+Material Theme
+Maven for Java
+Python
+Visual Studio IntelliCode
+vscode-icons
