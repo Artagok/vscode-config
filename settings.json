@@ -35,5 +35,7 @@
     "workbench.list.horizontalScrolling": true,
     "workbench.tree.indent": 12,
     "explorer.openEditors.visible": 10,
-    "explorer.sortOrder": "filesFirst"
+    "explorer.sortOrder": "filesFirst",
+    "veracode.Auto-Scan on Save": false,
+    "terminal.integrated.confirmOnExit": true
 }
