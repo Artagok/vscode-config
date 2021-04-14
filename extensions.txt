@@ -9,3 +9,11 @@ Maven for Java
 Python
 Visual Studio IntelliCode
 vscode-icons
+Prettier
+ESLint
+GitLens
+Auto Rename Tag
+JavaScript (ES6) code snippets
+ES7 React/Redux/GraphQL/React-Native snippets\
+Better Comments
+Colorize
